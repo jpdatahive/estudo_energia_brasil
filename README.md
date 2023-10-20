@@ -1,6 +1,6 @@
 ## Análise extensiva sobre a geração de energia no Brasil dividida por regiões
 
-[Geração de Energia no Brasil](https://mooncake-jp.github.io/portfolio_pages/estudo_energia/estudo_energia.html)<br>
+[Geração de Energia no Brasil](https://medium.com/@Archarios/geração-de-energia-no-brasil-nas-últimas-duas-décadas-688c03fedf3e)<br>
 
 [![](https://img.shields.io/badge/Jupyter-Abrir%20Notebook-orange?logo=Jupyter)](https://github.com/mooncake-jp/estudo_energia_brasil/blob/d43c38101c53070088513e1f87190535f849aa4f/gera%C3%A7%C3%A3o_energia_brasil.ipynb)
 ![](https://img.shields.io/badge/Pandas-Analise-blue?logo=pandas)
